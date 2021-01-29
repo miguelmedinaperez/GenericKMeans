@@ -1,4 +1,10 @@
-﻿using System;
+/*
+ * Created by: Miguel Angel Medina Pérez (miguelmedinaperez@gmail.com)
+ * Created: 11/16/2016
+ * Comments by: Miguel Angel Medina Pérez (miguelmedinaperez@gmail.com)
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using PRFramework.Core.Common;
